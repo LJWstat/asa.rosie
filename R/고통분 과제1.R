@@ -7,6 +7,7 @@
 # devtools::create("asa.rosie") # description, namespace 등등이 자동생성
 
 getwd()
-usethis::use_git()
+# usethis::use_git()
+# usethis::use_github()
 
-usethis::use_github()
+
