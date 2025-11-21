@@ -63,6 +63,5 @@ krr_fit = function(X, y, rho = 1, lambda = 0.0001){
   return(rslt)
 }
 
-devtools::document()
 
 
